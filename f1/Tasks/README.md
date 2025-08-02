@@ -20,8 +20,8 @@ This is a futuristic Formula 1 turn-based racing simulation written in Python. T
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/f1-racing-sim.git
-   cd f1-racing-sim
+   git clone https://github.com/o-ronin-o/f1-themed-python-simulation.git
+   cd f1-themed-python-simulation
 
 ```
 pip install -r requirements.txt
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 To run the application, execute the following command:
 
 ```
-python src/main.py
+python Tasks/src/task1.3/main.py
 ```
 
 ## Testing
