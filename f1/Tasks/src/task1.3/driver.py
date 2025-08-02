@@ -1,3 +1,6 @@
+
+
+
 class Driver:
     def __init__(self,name):
             
@@ -7,6 +10,11 @@ class Driver:
             self.offensive_moves= []
             self.defensive_moves= []
             self.turn_damage = 0
+
+
+   
+
+
 
     def can_defend(self, tactic):
         # Check if the driver has enough fuel to use a defensive tactic
