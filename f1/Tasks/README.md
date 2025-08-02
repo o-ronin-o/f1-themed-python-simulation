@@ -43,14 +43,24 @@ pytest tests/test_main.py
 
 ## Project Structure
 ```
-my-python-project
-├── src
-│   └── main.py
-├── tests
-│   └── test_main.py
+f1-racing-sim/
+├── Tasks/
+│   └── src/
+│       └── task1.3/
+│           ├── main.py
+│           ├── race.py
+│           ├── driver.py
+│           ├── hassan.py
+│           ├── max.py
+│           ├── tactics/
+│           │   ├── __init__.py
+│           │   ├── drs_boost.py
+│           │   ├── turbo_start.py
+│           │   └── ... (all 10 tactics)
+│           └── stt_recognizer.py
 ├── requirements.txt
-├── setup.py
-└── README.md
+├── README.md
+
 ```
 
 ## Author
